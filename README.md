@@ -6,7 +6,7 @@ La idea fundamental de este proyecto es implementar una API que pueda acortar UR
 
 ## Datos del desarrollo
 
-Este proyecto fue desarrollado bajo las siguientes versiones:
+Este proyecto fue desarrollado usando las siguientes versiones:
 - PHP 8.2.0
 - Laravel 9.48.0
 
